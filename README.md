@@ -1,5 +1,7 @@
 # 02_VBAChallenge
 
+Code created using class materials and help from perplexity.ai 
+
 Code Solution:
 Sub StockAnalysis()
     Dim ws As Worksheet
